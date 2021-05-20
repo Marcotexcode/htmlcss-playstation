@@ -110,6 +110,10 @@ nav {
 
 /********** SECTION 3 **********/
 
+.section3 { 
+    background-color: #1f1f1f;
+}
+
 .section3_top_text {
     color: white;
 }
@@ -128,6 +132,12 @@ nav {
 
 
 
+/********** SECTION 4 **********/
+
+
+.img_section_4 img {
+    width: 100%;
+}
 
 
 
@@ -135,32 +145,6 @@ nav {
 
 
 /********** DEBUG **********/
-
-
-/********** SECTION3 **********/
-
-.debug .section3 {
-    
-    background-color: #1f1f1f;
-}
-
-
-
-
-
-/********** SECTION 4  **********/
-
-
-.debug .title_section4 {
-    height: 200px;
-    background-color: brown;
-}
-
-.debug .img_section4 {
-    height: 400px;
-    background-color: yellow;
-}
-
 
 /********** SECTION 5  **********/
 
