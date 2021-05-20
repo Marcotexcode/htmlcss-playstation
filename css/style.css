@@ -151,7 +151,7 @@
 }
 
 
-/********** SECTION 4  **********/
+/********** SECTION 5  **********/
 
 .debug .section5 {
     height: 400px;
@@ -161,4 +161,27 @@
 .debug .text_section5 {
     height: 100%;
     background-color: azure;
+}
+
+
+/********** SECTION 6  **********/
+
+
+.debug .top_section6 {
+
+}
+
+.debug .title_section6 {
+    height: 200px;
+    background-color: beige ;
+}
+
+.debug .bottom_section6 {
+    height: 400px;
+    background-color: burlywood;
+}
+
+.debug .img_section6 {
+    height: 80%;
+    background-color: blueviolet;
 }
