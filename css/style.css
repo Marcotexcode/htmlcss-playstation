@@ -10,6 +10,10 @@
 }
 /********** HEADER **********/
 
+.header_top {
+    background-color: black;
+}
+
 .header_top img{
     width: 100px;
 }
@@ -18,6 +22,14 @@
     border-radius: 20px;
     background-color: #363636;
     border:none;
+}
+
+
+/********** MENU **********/
+
+nav {
+    height: 80px;
+    background-color: grey;
 }
 
 
@@ -80,48 +92,38 @@
 
 
 
+/********** SECTION 2 **********/
+
+
+.section2 {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    color: white;
+}
+
+.text_section2 img {
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 /********** DEBUG **********/
-
-
-/********** MENU **********/
-
-.debug .header_top {
-    background-color: black;
-}
-
-
-.debug nav {
-    height: 80px;
-    background-color: grey;
-}
-
-
-/********** JUMBOTRON **********/
-
-
-
-   
-    
-
-
-
-
-
-
-/********** SECTION 2 **********/
-
-.debug .section2 {
-    height: 500px;
-    background-color: green;
-}
-
-.debug .text_section2 {
-    height: 100%;
-    background-color: red;
-}
 
 
 /********** SECTION3 **********/
