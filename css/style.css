@@ -110,3 +110,19 @@
     height: 100%;
     background-color: red;
 }
+
+.debug .section3 {
+    
+    background-color: grey;
+}
+
+.debug .section3_top_text {
+    height: 200px;
+    background-color: black;
+}
+
+.debug .img_sectio3 {
+    height: 150px;
+    background-color: pink;
+}
+
