@@ -44,7 +44,16 @@
     border:none;
 }
 
+.img_jumbotron {
+    height: 150px;
+    border-radius: 20px;
+}
 
+.img_jumbotron img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
 
 
 
@@ -78,9 +87,7 @@
 
 /********** JUMBOTRON **********/
 
-.debug .jumbotron {
-    background-color: Aqua ;
-}
+
 
 
 
