@@ -31,6 +31,9 @@
 
 /********** DEBUG **********/
 
+
+/********** MENU **********/
+
 .debug .header_top {
     height: 30px;
     background-color: black;
@@ -40,6 +43,9 @@
     height: 90px;
     background-color: grey;
 }
+
+
+/********** JUMBOTRON **********/
 
 .debug .jumbotron_top {
     height: 500px;
@@ -62,6 +68,8 @@
 }
 
 
+/********** SECTION 1 **********/
+
 .debug .top_section1{
     height: 200px;
     background-color: green;
@@ -71,8 +79,6 @@
     height: 200px;
     background-color: red;
 }
-
-
 
 .debug .center_section1 {
     height: 500px;
@@ -89,8 +95,6 @@
     background-color: green;
 }
 
-
-
 .debug .bottom_section1 {
     height: 200px;
     background-color: red;
@@ -101,6 +105,9 @@
     background-color: grey;
 }
 
+
+/********** SECTION 2 **********/
+
 .debug .section2 {
     height: 500px;
     background-color: green;
@@ -110,6 +117,9 @@
     height: 100%;
     background-color: red;
 }
+
+
+/********** SECTION3 **********/
 
 .debug .section3 {
     
@@ -126,3 +136,29 @@
     background-color: pink;
 }
 
+
+/********** SECTION 4  **********/
+
+
+.debug .title_section4 {
+    height: 200px;
+    background-color: brown;
+}
+
+.debug .img_section4 {
+    height: 400px;
+    background-color: yellow;
+}
+
+
+/********** SECTION 4  **********/
+
+.debug .section5 {
+    height: 400px;
+    background-color: aqua;
+}
+
+.debug .text_section5 {
+    height: 100%;
+    background-color: azure;
+}
