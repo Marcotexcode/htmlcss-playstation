@@ -5,6 +5,9 @@
     margin-top: 110px;
 }
 
+.opacity_5 {
+    opacity: 0.5;
+}
 /********** HEADER **********/
 
 .header_top img{
@@ -55,13 +58,24 @@
     border-radius: 20px;
 }
 
+.img_bot_section1 img {
+    width: 100%;
+}
 
 
 
 
+/********** SECTION 1 **********/
 
+.img_dx_section1 img {
+    width: 100%;
+}
 
-
+.btn_section1 {
+    border-radius: 20px;
+    border:none;
+    background-color: #2d64e6;
+}
 
 
 
@@ -89,52 +103,12 @@
 
 
 
+   
+    
 
 
 
-.debug .img_jumbotron {
-    height: 150px;
-    background-color: Crimson;
-}
 
-
-
-/********** SECTION 1 **********/
-
-.debug .top_section1{
-    height: 200px;
-    background-color: green;
-}
-
-.debug .text_section1 {
-    height: 200px;
-    background-color: red;
-}
-
-.debug .center_section1 {
-    height: 500px;
-    background-color: grey;
-}
-
-.debug .text_sx_section1 {
-    height: 500px;
-    background-color: black;
-}
-
-.debug .img_dx_section1 {
-    height: 500px;
-    background-color: green;
-}
-
-.debug .bottom_section1 {
-    height: 200px;
-    background-color: red;
-}
-
-.debug .img_bot_section1 {
-    height: 80%;
-    background-color: grey;
-}
 
 
 /********** SECTION 2 **********/
