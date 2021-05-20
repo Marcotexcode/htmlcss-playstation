@@ -108,11 +108,22 @@ nav {
 }
 
 
+/********** SECTION 3 **********/
+
+.section3_top_text {
+    color: white;
+}
 
 
+.section3_bottom {
+    color: white;
 
+}
 
-
+.img_sectio3 img {
+    width: 100%;
+    border-radius: 20px;
+}
 
 
 
@@ -130,18 +141,11 @@ nav {
 
 .debug .section3 {
     
-    background-color: grey;
+    background-color: #1f1f1f;
 }
 
-.debug .section3_top_text {
-    height: 200px;
-    background-color: black;
-}
 
-.debug .img_sectio3 {
-    height: 150px;
-    background-color: pink;
-}
+
 
 
 /********** SECTION 4  **********/
