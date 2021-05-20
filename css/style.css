@@ -47,25 +47,24 @@
 
 /********** JUMBOTRON **********/
 
-.debug .jumbotron_top {
-    height: 500px;
-    background-color: green;
+.debug .jumbotron {
+    background-color: Aqua ;
 }
 
-.debug .text_jumb {
-    height: 100%;
+.debug .background_jumbotron {
     background-color: red;
 }
 
-.debug .jumbotron_bottom {
-    height: 200px;
-    background-color: grey;
+.debug .text_jumbotron {
+    height: 500px;
+    background-color: Cornsilk;
 }
 
-.debug .img_jumb {
-    height: 80%;
-    background-color: black;
+.debug .img_jumbotron {
+    height: 150px;
+    background-color: Crimson;
 }
+
 
 
 /********** SECTION 1 **********/
@@ -166,11 +165,6 @@
 
 /********** SECTION 6  **********/
 
-
-.debug .top_section6 {
-
-}
-
 .debug .title_section6 {
     height: 200px;
     background-color: beige ;
@@ -184,4 +178,67 @@
 .debug .img_section6 {
     height: 80%;
     background-color: blueviolet;
+}
+
+
+/********** SECTION 7  **********/
+
+.debug .section7 {
+    height: 400px;
+    background-color: aqua;
+}
+
+.debug .text_section7 {
+    height: 100%;
+    background-color: azure;
+}
+
+
+
+/********** SECTION 8 **********/
+
+.debug .title_section8 {
+    height: 200px;
+    background-color: coral;
+}
+
+
+.debug .social_section8 {
+    height: 300px;
+    background-color: crimson;
+}
+
+
+
+/********** FOOTER **********/
+
+.debug  .footer_bgc {
+   
+    background-color: DarkCyan;
+}
+
+.debug .foot_top_1 {
+    height: 200px;
+    background-color: DarkGoldenRod;
+}
+
+.debug .foot_top_2 {
+    height: 200px;
+    background-color: DarkGreen;
+}
+
+.debug .foot_top_3 {
+    height: 200px;
+    background-color: DarkKhaki;
+}
+
+.debug .foot_top_4 {
+    height: 200px;
+    background-color: DarkMagenta;
+}
+
+
+.debug .foot_bottom {
+    height: 200px;
+    background-color: DarkSeaGreen;
 }
