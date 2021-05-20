@@ -1,5 +1,9 @@
 
+/********** REGOLE GENERALI **********/
 
+.mt_90 {
+    margin-top: 110px;
+}
 
 /********** HEADER **********/
 
@@ -15,9 +19,30 @@
 
 
 
+/********** JUMBOTRON **********/
+
+.background_jumbotron {
+    background-image: url(../img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+}
+
+.text_jumbotron {
+    color: white;
+
+}
+
+.text_jumbotron img {
+    width: 200px;
+}
 
 
-
+.btn_jumbotron {
+    border-radius: 20px;
+    background-color: #cd3d0f;
+    border:none;
+}
 
 
 
@@ -57,14 +82,8 @@
     background-color: Aqua ;
 }
 
-.debug .background_jumbotron {
-    background-color: red;
-}
 
-.debug .text_jumbotron {
-    height: 500px;
-    background-color: Cornsilk;
-}
+
 
 .debug .img_jumbotron {
     height: 150px;
