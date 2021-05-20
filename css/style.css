@@ -41,6 +41,22 @@
     background-color: grey;
 }
 
+.debug .jumbotron_top {
+    height: 500px;
+    background-color: green;
+}
+
 .debug .text_jumb {
-    
+    height: 100%;
+    background-color: red;
+}
+
+.debug .jumbotron_bottom {
+    height: 200px;
+    background-color: grey;
+}
+
+.debug .img_jumb {
+    height: 80%;
+    background-color: black;
 }
