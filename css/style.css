@@ -8,6 +8,7 @@
 .opacity_5 {
     opacity: 0.5;
 }
+
 /********** HEADER **********/
 
 .header_top {
@@ -162,127 +163,100 @@ nav {
     border:none;
     background-color: #d9d9db;
     color: #3669e5;
-
 }
 
 
 
 
 
+/********** SECTION 6 **********/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/********** DEBUG **********/
-
-/********** SECTION 5  **********/
-
-
-
-
-
-
-/********** SECTION 6  **********/
-
-.debug .title_section6 {
-    height: 200px;
-    background-color: beige ;
-}
-
-.debug .bottom_section6 {
-    height: 400px;
-    background-color: burlywood;
-}
-
-.debug .img_section6 {
-    height: 80%;
-    background-color: blueviolet;
+.img_section6 img{
+    width: 100%;
 }
 
 
-/********** SECTION 7  **********/
 
-.debug .section7 {
-    height: 400px;
-    background-color: aqua;
+/********** SECTION 7 **********/
+
+.section7 {
+    background-color:#161c3b;
+    color: white;
+}
+.text_section7 img {
+    width: 50%;
 }
 
-.debug .text_section7 {
-    height: 100%;
-    background-color: azure;
+.img_section7 img {
+    width: 100%;
 }
+
+
+.btn_section7 {
+    border-radius: 20px;
+    border:none;
+    background-color: #d9d9db;
+    color: black;
+}
+
 
 
 
 /********** SECTION 8 **********/
 
-.debug .title_section8 {
-    height: 200px;
-    background-color: coral;
+.social_section8 img {
+    width: 120px;
 }
 
 
-.debug .social_section8 {
-    height: 300px;
-    background-color: crimson;
-}
+
 
 
 
 /********** FOOTER **********/
 
-.debug  .footer_bgc {
-   
-    background-color: DarkCyan;
+.footer_bgc {
+    background-color: #00439c;
+}
+.logo_ps {
+    width: 90px;
+    display: block;
 }
 
-.debug .foot_top_1 {
-    height: 200px;
-    background-color: DarkGoldenRod;
+.logo_globe{
+    width: 20px;
+    display: inline;
 }
 
-.debug .foot_top_2 {
-    height: 200px;
-    background-color: DarkGreen;
+.text_globe {
+    display: inline-block;
+    color: white;
 }
 
-.debug .foot_top_3 {
-    height: 200px;
-    background-color: DarkKhaki;
+.foot_top_2 ul {
+    list-style: none;
 }
 
-.debug .foot_top_4 {
-    height: 200px;
-    background-color: DarkMagenta;
+.foot_top_2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.foot_bottom img {
+    width: 150px;
+}
+
+.foot_bottom p {
+    color: white;
+}
+
+.foot_bottom p a {
+    color: white;
 }
 
 
-.debug .foot_bottom {
-    height: 200px;
-    background-color: DarkSeaGreen;
-}
+
+
+
+
+
