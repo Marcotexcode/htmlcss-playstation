@@ -73,7 +73,7 @@ nav {
     text-align: center;
     display: flex;
     justify-content: center;
-    padding: 20px 200px;
+    padding: 10px 200px;
 }
 
 .sotto_menu {
@@ -83,6 +83,18 @@ nav {
 
 .sotto_menu ul li  {
     padding: 0px 20px;
+}
+
+.sotto_menu ul li a {
+    text-decoration: none;
+    color: black;
+    vertical-align: sub;
+}
+
+.sotto_menu ul li span {
+    color: blue;
+    font-size: 40px;
+    vertical-align:middle;
 }
 
 
