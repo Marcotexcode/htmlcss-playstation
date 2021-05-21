@@ -134,10 +134,64 @@ nav {
 
 /********** SECTION 4 **********/
 
-
 .img_section_4 img {
     width: 100%;
 }
+
+
+
+
+
+
+/********** SECTION 5 **********/
+
+.section5 {
+    background-color:#bebcbb;
+}
+.text_section5 img {
+    width: 400px;
+}
+
+.img_section5 img {
+    width: 100%;
+}
+
+
+.btn_section5 {
+    border-radius: 20px;
+    border:none;
+    background-color: #d9d9db;
+    color: #3669e5;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -148,15 +202,9 @@ nav {
 
 /********** SECTION 5  **********/
 
-.debug .section5 {
-    height: 400px;
-    background-color: aqua;
-}
 
-.debug .text_section5 {
-    height: 100%;
-    background-color: azure;
-}
+
+
 
 
 /********** SECTION 6  **********/
