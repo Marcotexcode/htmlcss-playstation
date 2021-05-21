@@ -30,9 +30,57 @@
 
 nav {
     height: 80px;
-    background-color: grey;
+    background-color: white;
 }
 
+
+/********** MENU DROPDOWN **********/
+.navbar .megamenu{ padding: 1rem; }
+
+/* ============ desktop view ============ */
+@media all and (min-width: 992px) {
+
+  .navbar .has-megamenu{position:static!important;}
+  .navbar .megamenu{left:0; right:0; width:100%; margin-top:0;  }
+
+}	
+/* ============ desktop view .end// ============ */
+
+/* ============ mobile view ============ */
+@media(max-width: 991px){
+  .navbar.fixed-top .navbar-collapse, .navbar.sticky-top .navbar-collapse{
+    overflow-y: auto;
+      max-height: 90vh;
+      margin-top:10px;
+  }
+}
+/* ============ mobile view .end// ============ */
+
+.menu_drop_mega {
+    border:none;
+    
+}
+
+.menu_drop_mega ul li{
+    list-style: none;
+
+}
+
+.menu_drop_mega ul {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 20px 200px;
+}
+
+.sotto_menu {
+    width: 100%;
+    border-top: 1px solid black;
+}
+
+.sotto_menu ul li  {
+    list-style-type: disc;
+}
 
 
 /********** JUMBOTRON **********/
