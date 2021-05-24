@@ -128,6 +128,11 @@ nav {
     border-radius: 20px;
 }
 
+.img_jumbotron:hover {
+    border: 3px solid #1f83d4;
+    padding: 1px;
+}
+
 .img_jumbotron img {
     width: 100%;
     height: 100%;
