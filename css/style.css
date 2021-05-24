@@ -320,6 +320,23 @@ nav {
 
 
 
+@media screen and (max-width: 991px) {
+
+    .media_menu {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 98%;
+        padding: 0px 20px;
+    }
+
+
+
+
+
+
+
+}
 
 
 
